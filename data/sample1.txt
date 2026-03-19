@@ -1,0 +1,13 @@
+Fikri Fiuca Fardana – Software Engineer & Aspiring AI Engineer
+
+Fikri Fiuca Fardana is a Software Engineer with over five years of experience in building scalable and efficient systems across web and cloud environments. Based in East Java, Indonesia, he has developed strong expertise in backend engineering, microservices architecture, and modern DevOps practices.
+
+He holds a Bachelor of Engineering in Computer Science from the Islamic State University of Maulana Malik Ibrahim. Throughout his career, Fikri has worked with several companies, including PT Lautan Natural Krimerindo, where he currently serves as a Software Development Staff. In this role, he focuses on developing and maintaining enterprise systems using technologies such as NestJS, MongoDB, Kubernetes, and Google Cloud Platform, along with implementing CI/CD pipelines via GitLab.
+
+Fikri’s technical skill set spans multiple programming languages and frameworks, including Python (Django), PHP (Laravel and CodeIgniter), and TypeScript (Node.js/NestJS). He is also experienced with Docker, Redis, Elasticsearch, and is continuously expanding his knowledge in Go and distributed systems. His project experience includes building microservice-based CMS platforms, deploying applications in Kubernetes environments, and containerizing eCommerce systems.
+
+Beyond technical expertise, Fikri is known for his strong critical thinking, adaptability, and collaborative mindset. He has a keen interest in system design and enjoys solving complex engineering challenges.
+
+Currently, Fikri is transitioning his career focus toward Artificial Intelligence and Large Language Models (LLMs). He is actively exploring technologies such as vector databases, retrieval-augmented generation (RAG), and local AI deployment tools, aiming to build intelligent, scalable AI systems without heavy reliance on paid cloud services.
+
+With a solid engineering foundation and a forward-looking mindset, Fikri is driven to bridge the gap between traditional software engineering and next-generation AI solutions
