@@ -1,13 +1,39 @@
-Fikri Fiuca Fardana – Software Engineer & Aspiring AI Engineer
+Polar Bears: Arctic Apex Predators
 
-Fikri Fiuca Fardana is a Software Engineer with over five years of experience in building scalable and efficient systems across web and cloud environments. Based in East Java, Indonesia, he has developed strong expertise in backend engineering, microservices architecture, and modern DevOps practices.
+Polar bears (Ursus maritimus) are magnificent apex predators that reign over the Arctic regions, representing one of nature's most remarkable examples of adaptation to extreme environments. These massive creatures are the largest land carnivores on Earth, with adult males weighing between 350 to 700 kilograms and standing up to 3 meters tall when on their hind legs.
 
-He holds a Bachelor of Engineering in Computer Science from the Islamic State University of Maulana Malik Ibrahim. Throughout his career, Fikri has worked with several companies, including PT Lautan Natural Krimerindo, where he currently serves as a Software Development Staff. In this role, he focuses on developing and maintaining enterprise systems using technologies such as NestJS, MongoDB, Kubernetes, and Google Cloud Platform, along with implementing CI/CD pipelines via GitLab.
+Physical Characteristics and Adaptations
 
-Fikri’s technical skill set spans multiple programming languages and frameworks, including Python (Django), PHP (Laravel and CodeIgniter), and TypeScript (Node.js/NestJS). He is also experienced with Docker, Redis, Elasticsearch, and is continuously expanding his knowledge in Go and distributed systems. His project experience includes building microservice-based CMS platforms, deploying applications in Kubernetes environments, and containerizing eCommerce systems.
+Polar bears are instantly recognizable by their white fur, which is not actually white but transparent. The fur reflects light in a way that appears white, while underneath lies dark skin that absorbs heat from the sun. This ingenious adaptation helps them conserve body warmth in the frigid Arctic climate. Their fur is incredibly thick and water-resistant, consisting of two layers: a dense underfur and longer guard hairs that repel water and ice.
 
-Beyond technical expertise, Fikri is known for his strong critical thinking, adaptability, and collaborative mindset. He has a keen interest in system design and enjoys solving complex engineering challenges.
+These Arctic inhabitants possess several other remarkable adaptations for survival in extreme conditions. Their large paws, measuring up to 30 centimeters across, function as snowshoes, distributing their weight over ice and snow. The paws are also equipped with sharp claws for gripping slippery surfaces and specialized skin that provides insulation and traction. Their bodies are elongated and streamlined, perfect for powerful swimming, as polar bears are exceptional swimmers capable of traveling vast distances through open water.
 
-Currently, Fikri is transitioning his career focus toward Artificial Intelligence and Large Language Models (LLMs). He is actively exploring technologies such as vector databases, retrieval-augmented generation (RAG), and local AI deployment tools, aiming to build intelligent, scalable AI systems without heavy reliance on paid cloud services.
+Habitat and Distribution
 
-With a solid engineering foundation and a forward-looking mindset, Fikri is driven to bridge the gap between traditional software engineering and next-generation AI solutions
+Polar bears inhabit the circumpolar Arctic, primarily around sea ice in the northern regions of Alaska, Canada, Russia, Greenland, and Norway. They depend heavily on sea ice as a platform for hunting, and their entire life cycle is intrinsically linked to the seasonal formation and melting of sea ice. Most polar bear populations are found in 19 distinct ecoregions across the Arctic, each with unique environmental characteristics and prey availability.
+
+The sea ice serves as their hunting ground during the extended Arctic winter and spring when the ice reaches its maximum extent. During these months, polar bears remain on the ice, hunting their primary food source. When summer arrives and the ice begins to melt, bears must adapt their behavior and feeding patterns.
+
+Diet and Hunting Behavior
+
+Polar bears are carnivorous predators with a diet that consists almost entirely of marine mammals, particularly ringed and bearded seals. These seals provide the fat and calories necessary for the bears to survive in their harsh environment. A single seal can provide a polar bear with enough fat to sustain it for several days.
+
+The bears hunt with remarkable patience and skill. They wait at breathing holes in the ice for seals to surface for air, remaining motionless for extended periods. Alternatively, they may stalk seals on the ice surface, using their white coats as camouflage. Their exceptional sense of smell allows them to detect seal breathing holes from considerable distances away.
+
+During the brief Arctic summer when sea ice disappears, many polar bears are forced onto land, where they may consume walruses, whale carcasses, bird eggs, vegetation, and other available food sources. This period, known as the ice-free season, is challenging for bears as their preferred prey is largely unavailable.
+
+Reproduction and Social Structure
+
+Female polar bears are solitary creatures for most of the year. They reach sexual maturity around 5-6 years of age and typically have their first cubs between ages 6-8. Mating occurs during the spring months of April and May on the sea ice. After mating, females enter a period of delayed implantation, where the fertilized egg does not immediately implant in the uterus.
+
+In autumn, pregnant females seek out suitable denning sites, often in snow banks or excavated dens. Cubs, typically born in groups of one to three, emerge from the den in spring, weighing approximately 600 grams. The mother remains with her cubs for approximately 2.5 years, teaching them essential survival skills, including how to hunt effectively on sea ice.
+
+Lifespan and Conservation Status
+
+In the wild, polar bears typically live 25-30 years, with some individuals documented living past 40 years in captivity. Their generation time is long, meaning populations recover slowly from population declines.
+
+Polar bears currently face significant conservation challenges, primarily driven by climate change. As Arctic temperatures rise and sea ice forms later and melts earlier each year, polar bears have increasingly shorter periods to hunt for their primary food source. This has led to reduced body weights, lower reproduction rates, and increased conflicts with humans in some areas.
+
+The International Union for Conservation of Nature (IUCN) classifies polar bears as vulnerable, with their population estimated at 22,000-31,000 individuals distributed across 19 subpopulations. Some populations are stable or increasing, while others are declining. Conservation efforts include hunting regulations, habitat protection, and international agreements such as the International Agreement on the Conservation of Polar Bears, signed in 1973.
+
+Arctic ecosystem changes, pollution, and potential petroleum development also pose threats to polar bear populations. Climate change remains the most significant long-term threat, making polar bears powerful indicators of the health of Arctic ecosystems and the broader effects of global warming.
