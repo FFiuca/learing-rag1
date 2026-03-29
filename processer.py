@@ -9,15 +9,14 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores.faiss import FAISS
 from transformers import pipeline
-
 from db import get_mongo_db
 
 # Load environment variables
 load_dotenv()
 
 # Initialize models
-EMBEDDING_MODEL = "nomic-embed-text"
-CLASSIFIER_MODEL = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "nomic-embed-text")
+CLASSIFIER_MODEL = os.getenv("CLASSIFIER_MODEL", "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
 
 # Lazy load classifier
 _classifier = None
@@ -128,12 +127,18 @@ def save_to_db(text: str, categories: List[str]) -> None:
         categories: List of categories
     """
     db = get_mongo_db()
-    db["metadata"].insert_one({
-        "text": text,
-        "categories": categories,
-        "created_at": datetime.utcnow(),
-        "is_active": True
-    })
+    db["metadata"].update_one(
+        {"text": text},
+        {
+            "$set": {
+                "text": text,
+                "categories": categories,
+                "created_at": datetime.utcnow(),
+                "is_active": True
+            }
+        },
+        upsert=True
+    )
     print("Data saved to MongoDB")
 
 
